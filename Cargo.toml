@@ -1,0 +1,6 @@
+[package]
+name = "gbyteint"
+version = "0.1.0"
+authors = ["SteelPh0enix <wojciech_olech@hotmail.com>"]
+
+[dependencies]
